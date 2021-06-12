@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
     item: {
         backgroundColor: '#FFFFFF',
         padding: 15,
-        height: 60,
+        height: 22220,
         borderRadius: 10,
         flexDirection: 'row',
         alignItems: 'center',
